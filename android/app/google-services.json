@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "604333212478",
+    "firebase_url": "https://geopuzzle-4a3b9-default-rtdb.firebaseio.com",
+    "project_id": "geopuzzle-4a3b9",
+    "storage_bucket": "geopuzzle-4a3b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604333212478:android:8d2eb971f451b46ed4226f",
+        "android_client_info": {
+          "package_name": "com.example.geopuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604333212478-2k99ijdsbhbsmet6qdg977mrc7lvhkb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geopuzzle",
+            "certificate_hash": "aa4a35e9f8cbba0588ed550e32b484323fedc5b2"
+          }
+        },
+        {
+          "client_id": "604333212478-5pm2qe7uga7i77ho35qe8lb1hjhsnjdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCznC7VuxeJ233Q9uQcNDR5zio7dWzppp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604333212478-5pm2qe7uga7i77ho35qe8lb1hjhsnjdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
